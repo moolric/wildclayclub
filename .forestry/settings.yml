@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: area
+  label: Areas
+  create: all
+  match: "**/*"
+- type: directory
   path: clay
   label: Clays
   create: all
