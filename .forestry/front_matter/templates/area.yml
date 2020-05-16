@@ -1,4 +1,9 @@
 ---
 label: Area
-hide_body: false
-fields: []
+hide_body: true
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
