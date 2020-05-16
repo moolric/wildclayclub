@@ -1,4 +1,30 @@
 ---
 label: Clay
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: collected
+  type: datetime
+  label: Collected
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: suburb
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: suburbs
+      file: 
+      path: 
+  label: Suburb
