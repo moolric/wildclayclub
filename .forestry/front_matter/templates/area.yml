@@ -8,4 +8,5 @@ fields:
     required: false
   label: Name
 pages:
+- area/eastern-brisbane.md
 - area/inner-brisbane.md
