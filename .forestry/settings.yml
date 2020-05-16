@@ -4,8 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: heading
+- type: directory
+  path: suburbs
   label: Suburbs
+  create: documents
+  match: "**/*"
+  templates:
+  - suburb
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
