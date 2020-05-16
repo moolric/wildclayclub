@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: suburbs
+  path: suburb
   label: Suburbs
   create: documents
   match: "**/*"
