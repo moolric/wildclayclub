@@ -8,4 +8,4 @@ fields:
     required: false
   label: Name
 pages:
-- suburbs/brisbane.md
+- suburb/brisbane.md
