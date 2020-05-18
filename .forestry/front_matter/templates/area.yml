@@ -7,3 +7,8 @@ fields:
   config:
     required: false
   label: Name
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
