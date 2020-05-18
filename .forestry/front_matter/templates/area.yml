@@ -7,10 +7,3 @@ fields:
   config:
     required: false
   label: Name
-pages:
-- area/eastern-brisbane.md
-- area/inner-brisbane.md
-- area/northern-suburbs.md
-- area/redlands.md
-- area/southern-brisbane.md
-- area/western-brisbane.md

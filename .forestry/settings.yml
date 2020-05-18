@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: area
+  path: content/area
   label: Areas
   create: documents
   match: "**/*"
