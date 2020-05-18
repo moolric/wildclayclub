@@ -22,7 +22,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: suburb
+  path: content/suburb
   label: Suburbs
   create: documents
   match: "**/*"
