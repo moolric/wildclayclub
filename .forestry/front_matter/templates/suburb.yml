@@ -29,3 +29,18 @@ fields:
       file: 
       path: 
   label: Area
+- name: status
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Not collected
+    - " Being processed"
+    - Complete
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Status
