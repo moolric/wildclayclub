@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - name: id
   type: number
-  label: Suburb ID
+  label: ID
   description: ''
   default: 0
   required: true
