@@ -7,3 +7,15 @@ fields:
   config:
     required: false
   label: Name
+- name: area
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: areas
+      file: 
+      path: 
+  label: Area
