@@ -1,37 +1,33 @@
 <template>
-    <div class="grid-wrapper">
-        <div class="grid" id="grid">
-            <div 
-                v-for="item in grid.items"
-                :class="itemClasses(item)"
-                v-html="item.name || item.content"
-                
-            ></div>
-        </div>
+  <div class="grid-wrapper">
+    <div class="grid kinetic-active" id="grid">
+      <Tile
+        v-for="item in grid.items"
+        :item="item"
+      />
     </div>
+  </div>
 </template>
 
-<script>
-    export default {
-        async asyncData() {
-            try {
-                const grid = await import(`~/content/data/grids/grid-seq.json`);
-                return {
-                    grid
-                }
-            } catch(err) {
-                return false
-            }
-        },
-        methods: {
-            itemClasses(item) {
-                let space = item.space ? `space-${item.space}` : '';
-                let type = item.type || '';
-                let area = item.area || '';
-                return `${type} ${area} ${space}`;
-            }
-        }
+<script>    
+  import Tile from '~/components/Tile.vue'
+    
+export default {
+  name: 'Home',
+  components: {
+    Tile,
+  },
+  async asyncData() {
+    try {
+      const grid = await import(`~/content/data/grids/grid-seq.json`);
+      return {
+        grid
+      }
+    } catch(err) {
+      return false
     }
+  },        
+}
 </script>
 
 <style>

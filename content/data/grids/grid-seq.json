@@ -9,19 +9,22 @@
          "suburbId":1,
          "type":"suburb",
          "area":"north",
-         "name":"Bald Hills"
+         "name":"Bald Hills",
+         "slug":"bald-hills"
       },
       {
          "suburbId":2,
          "type":"suburb",
          "area":"north",
-         "name":"Bracken Ridge"
+         "name":"Bracken Ridge",
+         "slug":"bracken-ridge"
       },
       {
          "suburbId":3,
          "type":"suburb",
          "area":"north",
-         "name":"Deagon"
+         "name":"Deagon",
+         "slug":"deagon"
       },
       {
          "suburbId":4,

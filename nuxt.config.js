@@ -13,6 +13,11 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { src: 'https://code.jquery.com/jquery-3.4.1.slim.min.js', body: true },
+      { src: 'https://cdn.jsdelivr.net/npm/jquery.kinetic/jquery.kinetic.js', body: true },
+      { src: '/wild.js', body: true },
     ]
   },
   /*
