@@ -1,37 +1,34 @@
-let baseSize = 5;
-let maxSize = 30;
-let minSize = 3;
+let baseSize = 5
+const maxSize = 30
+const minSize = 3
 
-function increase() {
-  baseSize = baseSize + 0.5 <= maxSize ? baseSize + 0.5 : baseSize;
-  resize();
-  console.log(baseSize);
+function increase () {
+  baseSize = baseSize  +  0.5 <= maxSize ? baseSize  +  0.5 : baseSize
+  resize()
 }
-function decrease() {
-  baseSize = baseSize - 0.5 >= minSize ? baseSize - 0.5 : baseSize;
-  resize();
-  console.log(baseSize);
+function decrease () {
+  baseSize = baseSize - 0.5 >= minSize ? baseSize - 0.5 : baseSize
+  resize()
 }
-function resize() {    
+function resize () {    
   $('.grid').css({
-    'grid-template-columns': 'repeat(25, '+baseSize+'vw)',
-    'grid-auto-rows': baseSize+'vw',
-    'grid-gap': baseSize/10+'vw'
-  });
+    'grid-template-columns': 'repeat(25, ' + baseSize + 'vw)',
+    'grid-auto-rows': baseSize + 'vw',
+    'grid-gap': baseSize/10 + 'vw'
+  })
   $('.suburb').css({
-    'font-size': baseSize/7+'vw',
-    'padding': baseSize/10+'vw',
-    'border-width': baseSize/25+'vw'
-  });
+    'font-size': baseSize/7 + 'vw',
+    'padding': baseSize/10 + 'vw',
+    'border-width': baseSize/25 + 'vw'
+  })
   $('.label').css({
-    'font-size': baseSize/3.33+'vw',
-    'padding': baseSize/10+'vw',
-
-  });
+    'font-size': baseSize/3.33 + 'vw',
+    'padding': baseSize/10 + 'vw',
+  })
   $('.logo').css({
-    'font-size': baseSize/1.25+'vw',
-    'border-width': baseSize/10+'vw',
-  });
+    'font-size': baseSize/1.25 + 'vw',
+    'border-width': baseSize/10 + 'vw',
+  })
 }
 
 $('body').on('mousewheel DOMMouseScroll', function(e){
