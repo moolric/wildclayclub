@@ -32,7 +32,7 @@ export default {
     tileClasses () {
       const space = this.item.space ? `space-${this.item.space}` : ''
       const type = this.item.type || ''
-      const area = this.item.area || ''
+      const area = this.tileArea || this.item.area || ''
       return `tile ${type} ${area} ${space} tile--${this.item.slug}`
     },
     tileAttr () {
@@ -43,6 +43,13 @@ export default {
           name: this.item.name || this.item.content
         }
       }
+    },
+    tileArea () {
+      if (this.suburb) {
+        const area = require(`~/${this.suburb.attributes.area}`)
+        return area.attributes.slug
+      }
+      return false
     }
   }
 }

@@ -1,18 +1,3 @@
-$('#grid').kinetic({
-    filterTarget: function(target, e){
-        if (!/down|start/.test(e.type)){
-            return !(/area|a|input/i.test(target.tagName));
-        }
-    }
-});
-$('.suburb').click(function() {
-    $('.modal').removeClass('hide');
-});
-$('.modal').click(function(e) {
-    if ($(e.target).is('.modal')) {
-        $('.modal').addClass('hide');
-    }
-});
 var baseSize = 5,
     maxSize = 30,
     minSize = 3;
@@ -48,7 +33,15 @@ function resize() {
         'border-width': baseSize/10+'vw',
     });
 }
+
 $('body').on('mousewheel DOMMouseScroll', function(e){
+  $('#grid').kinetic({
+    filterTarget: function(target, e){
+      if (!/down|start/.test(e.type)){
+        return !(/area|a|input/i.test(target.tagName));
+      }
+    }
+  });
   if(typeof e.originalEvent.detail == 'number' && e.originalEvent.detail !== 0) {
     if(e.originalEvent.detail > 0) {
       console.log('Down');
