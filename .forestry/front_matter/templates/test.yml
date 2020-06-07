@@ -1,0 +1,16 @@
+---
+label: test
+hide_body: false
+fields:
+- type: number
+  name: id
+  label: id
+- type: text
+  name: area
+  label: area
+- type: text
+  name: name
+  label: name
+- type: text
+  name: status
+  label: status
