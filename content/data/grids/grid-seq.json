@@ -417,7 +417,7 @@
          "type":"suburb",
          "area":"north",
          "name":"Newmarket",
-        "slug":"newmarket"
+         "slug":"newmarket"
       },
       {
          "suburbId":48,

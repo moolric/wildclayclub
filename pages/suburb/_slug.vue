@@ -11,8 +11,7 @@
 export default {
   data () {
     return {
-      suburb: {},
-      selectedArticle: null
+      suburb: {}
     }
   },
   created () {
