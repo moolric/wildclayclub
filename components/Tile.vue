@@ -1,10 +1,14 @@
 <template>
-  <div :class="itemClasses(item)">
+  <NuxtLink
+    :to="tileLink"
+    tag="div"
+    :class="tileClasses"
+  >
     <div
-      class="title_name"
-      v-html="item.name || item.content"
+      class="tile_name"
+      v-html="tileLabel"
     />
-  </div>
+  </NuxtLink>
 </template>
 
 <script>
@@ -12,26 +16,33 @@ export default {
   props: {
     item: { type: Object, default: () => {} }
   },
-  async asyncData({ item }) {
+  async asyncData (item) {
     try {
-      console.log('slug', item.slug);
-      let suburb = await import(`~/content/suburb/${item.slug}.md`);
-      console.lo
+      const suburb = await require(`~/content/suburb/${item.slug}.md`)
       return {
-        suburb: {
-          ...suburb.attributes
-        }
-      };
+        suburb
+      }
     } catch (err) {
-      error({ statusCode: 404, message: 'This post could not be found' })
+      return false
     }
   },
-  methods: {
-    itemClasses (item) {
-      const space = item.space ? `space-${item.space}` : ''
-      const type = item.type || ''
-      const area = item.area || ''
+  computed: {
+    tileLink () {
+      return this.item.slug ? `${this.item.type}/${this.item.slug}` : ''
+    },
+    tileClasses () {
+      const space = this.item.space ? `space-${this.item.space}` : ''
+      const type = this.item.type || ''
+      const area = this.item.area || ''
       return `tile ${type} ${area} ${space}`
+    },
+    tileLabel () {
+      console.log(this.suburb)
+      if (this.suburb) {
+        return this.suburb.name
+      } else {
+        return this.item.name || this.item.content
+      }
     }
   }
 }

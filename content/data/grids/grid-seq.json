@@ -30,7 +30,8 @@
          "suburbId":4,
          "type":"suburb",
          "area":"north",
-         "name":"Brighton"
+         "name":"Brighton",
+         "slug":"brighton"
       },
       {
          "type":"space",
@@ -44,31 +45,36 @@
          "suburbId":5,
          "type":"suburb",
          "area":"north",
-         "name":"Carseldine"
+         "name":"Carseldine",
+         "slug":"carseldine"
       },
       {
          "suburbId":6,
          "type":"suburb",
          "area":"north",
-         "name":"Fitzgibbob"
+         "name":"Fitzgibbon",
+         "slug":"fitzgibbon"
       },
       {
          "suburbId":7,
          "type":"suburb",
          "area":"north",
-         "name":"Taigum"
+         "name":"Taigum",
+         "slug":"taigum"
       },
       {
          "suburbId":8,
          "type":"suburb",
          "area":"north",
-         "name":"Sandgate"
+         "name":"Sandgate",
+         "slug":"sandgate"
       },
       {
          "suburbId":9,
          "type":"suburb",
          "area":"north",
-         "name":"Shorncliffe"
+         "name":"Shorncliffe",
+         "slug":"shorncliffe"
       },
       {
          "type":"space",
@@ -90,25 +96,29 @@
          "suburbId":10,
          "type":"suburb",
          "area":"north",
-         "name":"Bridgeman Downs"
+         "name":"Bridgeman Downs",
+         "slug":"bridgeman-downs"
       },
       {
          "suburbId":11,
          "type":"suburb",
          "area":"north",
-         "name":"Aspley"
+         "name":"Aspley",
+         "slug":"aspley"
       },
       {
          "suburbId":12,
          "type":"suburb",
          "area":"north",
-         "name":"Zilmere"
+         "name":"Zilmere",
+         "slug":"zilmere"
       },
       {
          "suburbId":13,
          "type":"suburb",
          "area":"north",
-         "name":"Boondall"
+         "name":"Boondall",
+         "slug":"boondall"
       },
       {
          "type":"label",
@@ -119,7 +129,8 @@
          "suburbId":14,
          "type":"suburb",
          "area":"north",
-         "name":"Nudgee Beach"
+         "name":"Nudgee Beach",
+        "slug":"nudgee-beach"
       },
       {
          "type":"space",
@@ -137,49 +148,57 @@
          "suburbId":15,
          "type":"suburb",
          "area":"north",
-         "name":"Ferny Grove"
+         "name":"Ferny Grove",
+        "slug":"ferny-grove"
       },
       {
          "suburbId":16,
          "type":"suburb",
          "area":"north",
-         "name":"McDowall"
+         "name":"McDowall",
+        "slug":"mcdowall"
       },
       {
          "suburbId":17,
          "type":"suburb",
          "area":"north",
-         "name":"Chermside West"
+         "name":"Chermside West",
+        "slug":"chermside-west"
       },
       {
          "suburbId":18,
          "type":"suburb",
          "area":"north",
-         "name":"Chermside"
+         "name":"Chermside",
+        "slug":"chermside"
       },
       {
          "suburbId":19,
          "type":"suburb",
          "area":"north",
-         "name":"Geebung"
+         "name":"Geebung",
+        "slug":"geebung"
       },
       {
          "suburbId":20,
          "type":"suburb",
          "area":"north",
-         "name":"Virginia"
+         "name":"Virginia",
+        "slug":"virginia"
       },
       {
          "suburbId":21,
          "type":"suburb",
          "area":"north",
-         "name":"Banyo"
+         "name":"Banyo",
+        "slug":"banyo"
       },
       {
          "suburbId":22,
          "type":"suburb",
          "area":"north",
-         "name":"Nudgee"
+         "name":"Nudgee",
+        "slug":"nudgee"
       },
       {
          "type":"space",
@@ -197,43 +216,50 @@
          "suburbId":23,
          "type":"suburb",
          "area":"north",
-         "name":"Keperra"
+         "name":"Keperra",
+        "slug":"keperra"
       },
       {
          "suburbId":24,
          "type":"suburb",
          "area":"north",
-         "name":"Everton Park"
+         "name":"Everton Park",
+        "slug":"everton-park"
       },
       {
          "suburbId":25,
          "type":"suburb",
          "area":"north",
-         "name":"Stafford Heights"
+         "name":"Stafford Heights",
+        "slug":"stafford-heights"
       },
       {
          "suburbId":26,
          "type":"suburb",
          "area":"north",
-         "name":"Kedron"
+         "name":"Kedron",
+        "slug":"kedron"
       },
       {
          "suburbId":27,
          "type":"suburb",
          "area":"north",
-         "name":"Wavell Heights"
+         "name":"Wavell Heights",
+        "slug":"wavell-heights"
       },
       {
          "suburbId":28,
          "type":"suburb",
          "area":"north",
-         "name":"Nundah"
+         "name":"Nundah",
+        "slug":"nundah"
       },
       {
          "suburbId":29,
          "type":"suburb",
          "area":"north",
-         "name":"Northgate"
+         "name":"Northgate",
+        "slug":"northgate"
       },
       {
          "type":"space",
@@ -247,49 +273,57 @@
          "suburbId":30,
          "type":"suburb",
          "area":"north",
-         "name":"Mitchelton"
+         "name":"Mitchelton",
+        "slug":"mitchelton"
       },
       {
          "suburbId":31,
          "type":"suburb",
          "area":"north",
-         "name":"Gaythorne"
+         "name":"Gaythorne",
+        "slug":"gaythorne"
       },
       {
          "suburbId":32,
          "type":"suburb",
          "area":"north",
-         "name":"Stafford"
+         "name":"Stafford",
+        "slug":"stafford"
       },
       {
          "suburbId":33,
          "type":"suburb",
          "area":"north",
-         "name":"Gordon Park"
+         "name":"Gordon Park",
+        "slug":"gordon-park"
       },
       {
          "suburbId":34,
          "type":"suburb",
          "area":"north",
-         "name":"Kalinga"
+         "name":"Kalinga",
+        "slug":"kalinga"
       },
       {
          "suburbId":35,
          "type":"suburb",
          "area":"north",
-         "name":"Clayfield"
+         "name":"Clayfield",
+        "slug":"clayfield"
       },
       {
          "suburbId":36,
          "type":"suburb",
          "area":"north",
-         "name":"Hendra"
+         "name":"Hendra",
+        "slug":"hendra"
       },
       {
          "suburbId":37,
          "type":"suburb",
          "area":"north",
-         "name":"Brisbane Airport"
+         "name":"Brisbane Airport",
+        "slug":"brisbane-airport"
       },
       {
          "type":"space",
@@ -303,43 +337,50 @@
          "suburbId":38,
          "type":"suburb",
          "area":"north",
-         "name":"Alderley"
+         "name":"Alderley",
+        "slug":"alderley"
       },
       {
          "suburbId":39,
          "type":"suburb",
          "area":"north",
-         "name":"Grange"
+         "name":"Grange",
+        "slug":"grange"
       },
       {
          "suburbId":40,
          "type":"suburb",
          "area":"north",
-         "name":"Lutwyche"
+         "name":"Lutwyche",
+        "slug":"lutwyche"
       },
       {
          "suburbId":41,
          "type":"suburb",
          "area":"north",
-         "name":"Wooloowin"
+         "name":"Wooloowin",
+        "slug":"wooloowin"
       },
       {
          "suburbId":42,
          "type":"suburb",
          "area":"north",
-         "name":"Ascot"
+         "name":"Ascot",
+        "slug":"ascot"
       },
       {
          "suburbId":43,
          "type":"suburb",
          "area":"north",
-         "name":"Eagle Farm"
+         "name":"Eagle Farm",
+        "slug":"eagle-farm"
       },
       {
          "suburbId":44,
          "type":"suburb",
          "area":"north",
-         "name":"Pinkenba"
+         "name":"Pinkenba",
+        "slug":"pinkenba"
       },
       {
          "type":"space",
@@ -349,7 +390,8 @@
          "suburbId":45,
          "type":"suburb",
          "area":"east",
-         "name":"Moreton Island"
+         "name":"Moreton Island",
+        "slug":"moreton-island"
       },
       {
          "type":"space",
@@ -363,7 +405,8 @@
          "suburbId":46,
          "type":"suburb",
          "area":"west",
-         "name":"Upper Kedron"
+         "name":"Upper Kedron",
+        "slug":"upper-kedron"
       },
       {
          "type":"space",
@@ -373,31 +416,36 @@
          "suburbId":47,
          "type":"suburb",
          "area":"north",
-         "name":"Newmarket"
+         "name":"Newmarket",
+        "slug":"newmarket"
       },
       {
          "suburbId":48,
          "type":"suburb",
          "area":"north",
-         "name":"Wilston"
+         "name":"Wilston",
+        "slug":"wilston"
       },
       {
          "suburbId":49,
          "type":"suburb",
          "area":"north",
-         "name":"Windsor"
+         "name":"Windsor",
+        "slug":"windsor"
       },
       {
          "suburbId":50,
          "type":"suburb",
          "area":"north",
-         "name":"Albion"
+         "name":"Albion",
+        "slug":"albion"
       },
       {
          "suburbId":51,
          "type":"suburb",
          "area":"north",
-         "name":"Hamilton"
+         "name":"Hamilton",
+        "slug":"hamilton"
       },
       {
          "type":"space",
@@ -412,13 +460,15 @@
          "suburbId":52,
          "type":"suburb",
          "area":"east",
-         "name":"Lytton"
+         "name":"Lytton",
+        "slug":"lytton"
       },
       {
          "suburbId":53,
          "type":"suburb",
          "area":"east",
-         "name":"Port of Brisbane"
+         "name":"Port of Brisbane",
+        "slug":"port-of-brisbane"
       },
       {
          "type":"space",
@@ -432,25 +482,29 @@
          "suburbId":54,
          "type":"suburb",
          "area":"west",
-         "name":"Lake Manchester"
+         "name":"Lake Manchester",
+        "slug":"lake-manchester"
       },
       {
          "suburbId":55,
          "type":"suburb",
          "area":"west",
-         "name":"Enoggera Reservoir"
+         "name":"Enoggera Reservoir",
+        "slug":"enoggera-reservoir"
       },
       {
          "suburbId":56,
          "type":"suburb",
          "area":"west",
-         "name":"The Gap"
+         "name":"The Gap",
+        "slug":"the-gap"
       },
       {
          "suburbId":57,
          "type":"suburb",
          "area":"west",
-         "name":"Enoggera"
+         "name":"Enoggera",
+        "slug":"enoggera"
       },
       {
          "type":"label",
@@ -461,73 +515,85 @@
          "suburbId":58,
          "type":"suburb",
          "area":"west",
-         "name":"Milton"
+         "name":"Milton",
+        "slug":"milton"
       },
       {
          "suburbId":59,
          "type":"suburb",
          "area":"inner",
-         "name":"Red Hill"
+         "name":"Red Hill",
+        "slug":"red-hill"
       },
       {
          "suburbId":60,
          "type":"suburb",
          "area":"inner",
-         "name":"Kelvin Grove"
+         "name":"Kelvin Grove",
+        "slug":"kelvin-grove"
       },
       {
          "suburbId":61,
          "type":"suburb",
          "area":"inner",
-         "name":"Herston"
+         "name":"Herston",
+        "slug":"herston"
       },
       {
          "suburbId":62,
          "type":"suburb",
          "area":"inner",
-         "name":"Bowen Hills"
+         "name":"Bowen Hills",
+        "slug":"bowen-hills"
       },
       {
          "suburbId":63,
          "type":"suburb",
          "area":"inner",
-         "name":"Newstead"
+         "name":"Newstead",
+        "slug":"newstead"
       },
       {
          "suburbId":64,
          "type":"suburb",
          "area":"east",
-         "name":"Bulimba"
+         "name":"Bulimba",
+        "slug":"bulimba"
       },
       {
          "suburbId":65,
          "type":"suburb",
          "area":"east",
-         "name":"Balmoral"
+         "name":"Balmoral",
+        "slug":"balmoral"
       },
       {
          "suburbId":66,
          "type":"suburb",
          "area":"east",
-         "name":"Murarrie"
+         "name":"Murarrie",
+        "slug":"murarrie"
       },
       {
          "suburbId":67,
          "type":"suburb",
          "area":"east",
-         "name":"Hemmant"
+         "name":"Hemmant",
+        "slug":"hemmant"
       },
       {
          "suburbId":68,
          "type":"suburb",
          "area":"east",
-         "name":"Wynnum West"
+         "name":"Wynnum West",
+        "slug":"wynnum-west"
       },
       {
          "suburbId":69,
          "type":"suburb",
          "area":"east",
-         "name":"Wynnum"
+         "name":"Wynnum",
+        "slug":"wynnum"
       },
       {
          "type":"space",
@@ -541,109 +607,127 @@
          "suburbId":70,
          "type":"suburb",
          "area":"west",
-         "name":"Upper Brookfield"
+         "name":"Upper Brookfield",
+        "slug":"upper-brookfield"
       },
       {
          "suburbId":71,
          "type":"suburb",
          "area":"west",
-         "name":"Brookfield"
+         "name":"Brookfield",
+        "slug":"brookfield"
       },
       {
          "suburbId":72,
          "type":"suburb",
          "area":"west",
-         "name":"Mount Coot-tha"
+         "name":"Mount Coot-tha",
+        "slug":"mount-coot-tha"
       },
       {
          "suburbId":73,
          "type":"suburb",
          "area":"west",
-         "name":"Ashgrove"
+         "name":"Ashgrove",
+        "slug":"ashgrove"
       },
       {
          "suburbId":74,
          "type":"suburb",
          "area":"west",
-         "name":"Bardon"
+         "name":"Bardon",
+        "slug":"bardon"
       },
       {
          "suburbId":75,
          "type":"suburb",
          "area":"west",
-         "name":"Toowong"
+         "name":"Toowong",
+        "slug":"toowong"
       },
       {
          "suburbId":76,
          "type":"suburb",
          "area":"west",
-         "name":"Auchen&shy;flower"
+         "name":"Auchen&shy;flower",
+        "slug":"auchenflower"
       },
       {
          "suburbId":77,
          "type":"suburb",
          "area":"inner",
-         "name":"Paddington"
+         "name":"Paddington",
+        "slug":"paddington"
       },
       {
          "suburbId":78,
          "type":"suburb",
          "area":"inner",
-         "name":"Petrie Terrace"
+         "name":"Petrie Terrace",
+        "slug":"petrie-terrace"
       },
       {
          "suburbId":79,
          "type":"suburb",
          "area":"inner",
-         "name":"Spring Hill"
+         "name":"Spring Hill",
+        "slug":"spring-hill"
       },
       {
          "suburbId":80,
          "type":"suburb",
          "area":"inner",
-         "name":"Fortitude Valley"
+         "name":"Fortitude Valley",
+        "slug":"fortitude-valley"
       },
       {
          "suburbId":81,
          "type":"suburb",
          "area":"inner",
-         "name":"Teneriffe"
+         "name":"Teneriffe",
+        "slug":"teneriffe"
       },
       {
          "suburbId":82,
          "type":"suburb",
          "area":"east",
-         "name":"Hawthorne"
+         "name":"Hawthorne",
+        "slug":"hawthorne"
       },
       {
          "suburbId":210,
          "type":"suburb",
          "area":"east",
-         "name":"Morningside"
+         "name":"Morningside",
+        "slug":"morningside"
       },
       {
          "suburbId":83,
          "type":"suburb",
          "area":"east",
-         "name":"Cannon Hill"
+         "name":"Cannon Hill",
+        "slug":"cannon-hill"
       },
       {
          "suburbId":84,
          "type":"suburb",
          "area":"east",
-         "name":"Tingalpa"
+         "name":"Tingalpa",
+        "slug":"tingalpa"
       },
       {
          "suburbId":85,
          "type":"suburb",
          "area":"east",
-         "name":"Manly West"
+         "name":"Manly West",
+        "slug":"manly-west"
       },
       {
          "suburbId":86,
          "type":"suburb",
          "area":"east",
-         "name":"Manly"
+         "name":"Manly",
+        "slug":"manly"
       },
       {
          "type":"space",
@@ -653,55 +737,64 @@
          "suburbId":87,
          "type":"suburb",
          "area":"west",
-         "name":"Kholo"
+         "name":"Kholo",
+        "slug":"kholo"
       },
       {
          "suburbId":88,
          "type":"suburb",
          "area":"west",
-         "name":"Mount Crosby"
+         "name":"Mount Crosby",
+        "slug":"mount-crosby"
       },
       {
          "suburbId":89,
          "type":"suburb",
          "area":"west",
-         "name":"Anstead"
+         "name":"Anstead",
+        "slug":"anstead"
       },
       {
          "suburbId":90,
          "type":"suburb",
          "area":"west",
-         "name":"Pullenvale"
+         "name":"Pullenvale",
+        "slug":"pullenvale"
       },
       {
          "suburbId":91,
          "type":"suburb",
          "area":"west",
-         "name":"Kenmore Hills"
+         "name":"Kenmore Hills",
+        "slug":"kenmore-hills"
       },
       {
          "suburbId":92,
          "type":"suburb",
          "area":"west",
-         "name":"Chapel Hill"
+         "name":"Chapel Hill",
+        "slug":"chapel-hill"
       },
       {
          "suburbId":93,
          "type":"suburb",
          "area":"west",
-         "name":"Indooroo&shy;pilly"
+         "name":"Indooroo&shy;pilly",
+        "slug":"indooroopilly"
       },
       {
          "suburbId":94,
          "type":"suburb",
          "area":"west",
-         "name":"Taringa"
+         "name":"Taringa",
+        "slug":"taringa"
       },
       {
          "suburbId":95,
          "type":"suburb",
          "area":"west",
-         "name":"St Lucia"
+         "name":"St Lucia",
+        "slug":"st-lucia"
       },
       {
          "type":"label",
@@ -712,61 +805,71 @@
          "suburbId":96,
          "type":"suburb",
          "area":"inner",
-         "name":"Brisbane"
+         "name":"Brisbane",
+        "slug":"brisbane"
       },
       {
          "suburbId":97,
          "type":"suburb",
          "area":"inner",
-         "name":"Kangaroo Point"
+         "name":"Kangaroo Point",
+        "slug":"kangaroo-point"
       },
       {
          "suburbId":98,
          "type":"suburb",
          "area":"inner",
-         "name":"New Farm"
+         "name":"New Farm",
+        "slug":"new-farm"
       },
       {
          "suburbId":99,
          "type":"suburb",
          "area":"east",
-         "name":"Norman Park"
+         "name":"Norman Park",
+        "slug":"norman-park"
       },
       {
          "suburbId":100,
          "type":"suburb",
          "area":"east",
-         "name":"Seven Hills"
+         "name":"Seven Hills",
+        "slug":"seven-hills"
       },
       {
          "suburbId":101,
          "type":"suburb",
          "area":"east",
-         "name":"Carina"
+         "name":"Carina",
+        "slug":"carina"
       },
       {
          "suburbId":102,
          "type":"suburb",
          "area":"east",
-         "name":"Carindale"
+         "name":"Carindale",
+        "slug":"carindale"
       },
       {
          "suburbId":103,
          "type":"suburb",
          "area":"east",
-         "name":"Wakerley"
+         "name":"Wakerley",
+        "slug":"wakerley"
       },
       {
          "suburbId":104,
          "type":"suburb",
          "area":"east",
-         "name":"Lota"
+         "name":"Lota",
+        "slug":"lota"
       },
       {
          "suburbId":105,
          "type":"suburb",
          "area":"redlands",
-         "name":"Thorneside"
+         "name":"Thorneside",
+        "slug":"thorneside"
       },
       {
          "type":"label",
@@ -781,151 +884,176 @@
          "suburbId":106,
          "type":"suburb",
          "area":"west",
-         "name":"Chuwar"
+         "name":"Chuwar",
+        "slug":"chuwar"
       },
       {
          "suburbId":107,
          "type":"suburb",
          "area":"west",
-         "name":"Karana Downs"
+         "name":"Karana Downs",
+        "slug":"karana-downs"
       },
       {
          "suburbId":108,
          "type":"suburb",
          "area":"west",
-         "name":"Bellbowrie"
+         "name":"Bellbowrie",
+        "slug":"bellbowrie"
       },
       {
          "suburbId":109,
          "type":"suburb",
          "area":"west",
-         "name":"Pinjarra Hills"
+         "name":"Pinjarra Hills",
+        "slug":"pinjarra-hills"
       },
       {
          "suburbId":110,
          "type":"suburb",
          "area":"west",
-         "name":"Kenmore"
+         "name":"Kenmore",
+        "slug":"kenmore"
       },
       {
          "suburbId":111,
          "type":"suburb",
          "area":"west",
-         "name":"Fig Tree Pocket"
+         "name":"Fig Tree Pocket",
+        "slug":"fig-tree-pocket"
       },
       {
          "suburbId":112,
          "type":"suburb",
          "area":"west",
-         "name":"Chelmer"
+         "name":"Chelmer",
+        "slug":"chelmer"
       },
       {
          "suburbId":113,
          "type":"suburb",
          "area":"west",
-         "name":"Graceville"
+         "name":"Graceville",
+        "slug":"graceville"
       },
       {
          "suburbId":114,
          "type":"suburb",
          "area":"west",
-         "name":"Sherwood"
+         "name":"Sherwood",
+        "slug":"sherwood"
       },
       {
          "suburbId":115,
          "type":"suburb",
          "area":"inner",
-         "name":"West End"
+         "name":"West End",
+        "slug":"west-end"
       },
       {
          "suburbId":116,
          "type":"suburb",
          "area":"inner",
-         "name":"Highgate Hill"
+         "name":"Highgate Hill",
+        "slug":"highgate-hill"
       },
       {
          "suburbId":117,
          "type":"suburb",
          "area":"inner",
-         "name":"South Brisbane"
+         "name":"South Brisbane",
+        "slug":"south-brisbane"
       },
       {
          "suburbId":118,
          "type":"suburb",
          "area":"inner",
-         "name":"Woolloon&shy;gabba"
+         "name":"Woolloon&shy;gabba",
+        "slug":"woolloongabba"
       },
       {
          "suburbId":119,
          "type":"suburb",
          "area":"inner",
-         "name":"East Brisbane"
+         "name":"East Brisbane",
+        "slug":"east-brisbane"
       },
       {
          "suburbId":120,
          "type":"suburb",
          "area":"east",
-         "name":"Coorparoo"
+         "name":"Coorparoo",
+        "slug":"coorparoo"
       },
       {
          "suburbId":121,
          "type":"suburb",
          "area":"east",
-         "name":"Camp Hill"
+         "name":"Camp Hill",
+        "slug":"camp-hill"
       },
       {
          "suburbId":122,
          "type":"suburb",
          "area":"east",
-         "name":"Carina Heights "
+         "name":"Carina Heights",
+        "slug":"carina-heights"
       },
       {
          "suburbId":123,
          "type":"suburb",
          "area":"east",
-         "name":"Belmont"
+         "name":"Belmont",
+        "slug":"belmont"
       },
       {
          "suburbId":124,
          "type":"suburb",
          "area":"east",
-         "name":"Gumdale"
+         "name":"Gumdale",
+        "slug":"gumdale"
       },
       {
          "suburbId":125,
          "type":"suburb",
          "area":"east",
-         "name":"Ransome"
+         "name":"Ransome",
+        "slug":"ransome"
       },
       {
          "suburbId":126,
          "type":"suburb",
          "area":"redlands",
-         "name":"Birkdale"
+         "name":"Birkdale",
+        "slug":"birkdale"
       },
       {
          "suburbId":127,
          "type":"suburb",
          "area":"redlands",
-         "name":"Wellington Point"
+         "name":"Wellington Point",
+        "slug":"wellington-point"
       },
       {
          "suburbId":128,
          "type":"suburb",
          "area":"redlands",
-         "name":"Ormiston"
+         "name":"Ormiston",
+        "slug":"ormiston"
       },
       {
          "suburbId":129,
          "type":"suburb",
          "area":"redlands",
-         "name":"Amity Point"
+         "name":"Amity Point",
+        "slug":"amity-point"
       },
       {
          "suburbId":130,
          "type":"suburb",
          "area":"redlands",
-         "name":"Point Lookout"
+         "name":"Point Lookout",
+        "slug":"point-lookout"
       },
       {
          "type":"space",
@@ -935,79 +1063,92 @@
          "suburbId":131,
          "type":"suburb",
          "area":"west",
-         "name":"Moggill"
+         "name":"Moggill",
+        "slug":"moggill"
       },
       {
          "suburbId":132,
          "type":"suburb",
          "area":"west",
-         "name":"Westlake"
+         "name":"Westlake",
+        "slug":"westlake"
       },
       {
          "suburbId":133,
          "type":"suburb",
          "area":"west",
-         "name":"Jindalee"
+         "name":"Jindalee",
+        "slug":"jindalee"
       },
       {
          "suburbId":134,
          "type":"suburb",
          "area":"west",
-         "name":"Sinnamon Park"
+         "name":"Sinnamon Park",
+        "slug":"sinnamon-park"
       },
       {
          "suburbId":135,
          "type":"suburb",
          "area":"west",
-         "name":"Seventeen Mile Rocks"
+         "name":"Seventeen Mile Rocks",
+        "slug":"seventeen-mile-rocks"
       },
       {
          "suburbId":136,
          "type":"suburb",
          "area":"west",
-         "name":"Oxley"
+         "name":"Oxley",
+        "slug":"oxley"
       },
       {
          "suburbId":137,
          "type":"suburb",
          "area":"west",
-         "name":"Corinda"
+         "name":"Corinda",
+        "slug":"corinda"
       },
       {
          "suburbId":138,
          "type":"suburb",
          "area":"south",
-         "name":"Dutton Park"
+         "name":"Dutton Park",
+        "slug":"dutton-park"
       },
       {
          "suburbId":139,
          "type":"suburb",
          "area":"south",
-         "name":"Yeronga"
+         "name":"Yeronga",
+        "slug":"yeronga"
       },
       {
          "suburbId":140,
          "type":"suburb",
          "area":"south",
-         "name":"Fairfield"
+         "name":"Fairfield",
+        "slug":"fairfield"
       },
       {
          "suburbId":141,
          "type":"suburb",
          "area":"south",
-         "name":"Annerley"
+         "name":"Annerley",
+        "slug":"annerley"
       },
       {
          "suburbId":142,
          "type":"suburb",
          "area":"south",
-         "name":"Green&shy;slopes"
+         "name":"Green&shy;slopes",
+        "slug":"greenslopes"
       },
       {
          "suburbId":143,
          "type":"suburb",
          "area":"south",
-         "name":"Stones Corner"
+         "name":"Stones Corner",
+        "slug":"stones-corner"
       },
       {
          "type":"space",
@@ -1017,37 +1158,43 @@
          "suburbId":144,
          "type":"suburb",
          "area":"east",
-         "name":"Chandler"
+         "name":"Chandler",
+        "slug":"chandler"
       },
       {
          "suburbId":145,
          "type":"suburb",
          "area":"redlands",
-         "name":"Capalaba"
+         "name":"Capalaba",
+        "slug":"capalaba"
       },
       {
          "suburbId":146,
          "type":"suburb",
          "area":"redlands",
-         "name":"Alexandra Hills"
+         "name":"Alexandra Hills",
+        "slug":"alexandra-hills"
       },
       {
          "suburbId":147,
          "type":"suburb",
          "area":"redlands",
-         "name":"Cleveland"
+         "name":"Cleveland",
+        "slug":"cleveland"
       },
       {
          "suburbId":148,
          "type":"suburb",
          "area":"redlands",
-         "name":"Dunwich"
+         "name":"Dunwich",
+        "slug":"dunwich"
       },
       {
          "suburbId":149,
          "type":"suburb",
          "area":"redlands",
-         "name":"North Stradbroke Island"
+         "name":"North Stradbroke Island",
+        "slug":"north-stradbroke-island"
       },
       {
          "type":"space",
@@ -1057,13 +1204,15 @@
          "suburbId":150,
          "type":"suburb",
          "area":"west",
-         "name":"Riverhills"
+         "name":"Riverhills",
+        "slug":"riverhills"
       },
       {
          "suburbId":151,
          "type":"suburb",
          "area":"west",
-         "name":"Mount Ommaney"
+         "name":"Mount Ommaney",
+        "slug":"mount-ommaney"
       },
       {
          "type":"space",
@@ -1073,37 +1222,43 @@
          "suburbId":152,
          "type":"suburb",
          "area":"south",
-         "name":"Tennyson"
+         "name":"Tennyson",
+        "slug":"tennyson"
       },
       {
          "suburbId":153,
          "type":"suburb",
          "area":"south",
-         "name":"Yeerongpilly"
+         "name":"Yeerongpilly",
+        "slug":"yeerongpilly"
       },
       {
          "suburbId":154,
          "type":"suburb",
          "area":"south",
-         "name":"Moorooka"
+         "name":"Moorooka",
+        "slug":"moorooka"
       },
       {
          "suburbId":155,
          "type":"suburb",
          "area":"south",
-         "name":"Tarragindi"
+         "name":"Tarragindi",
+        "slug":"tarragindi"
       },
       {
          "suburbId":156,
          "type":"suburb",
          "area":"south",
-         "name":"Holland Park West"
+         "name":"Holland Park West",
+        "slug":"holland-park-west"
       },
       {
          "suburbId":157,
          "type":"suburb",
          "area":"south",
-         "name":"Holland Park"
+         "name":"Holland Park",
+        "slug":"holland-park"
       },
       {
          "type":"space",
@@ -1113,25 +1268,29 @@
          "suburbId":158,
          "type":"suburb",
          "area":"redlands",
-         "name":"Sheldon"
+         "name":"Sheldon",
+        "slug":"sheldon"
       },
       {
          "suburbId":159,
          "type":"suburb",
          "area":"redlands",
-         "name":"Thornlands"
+         "name":"Thornlands",
+        "slug":"thornlands"
       },
       {
          "suburbId":160,
          "type":"suburb",
          "area":"redlands",
-         "name":"Victoria Point"
+         "name":"Victoria Point",
+        "slug":"victoria-point"
       },
       {
          "suburbId":161,
          "type":"suburb",
          "area":"redlands",
-         "name":"Coochie&shy;mudlo Island"
+         "name":"Coochie&shy;mudlo Island",
+        "slug":"coochiemudlo-island"
       },
       {
          "type":"space"
@@ -1144,13 +1303,15 @@
          "suburbId":162,
          "type":"suburb",
          "area":"west",
-         "name":"Middle Park"
+         "name":"Middle Park",
+        "slug":"middle-park"
       },
       {
          "suburbId":163,
          "type":"suburb",
          "area":"west",
-         "name":"Jamboree Heights"
+         "name":"Jamboree Heights",
+        "slug":"jamboree-heights"
       },
       {
          "type":"space",
@@ -1160,49 +1321,57 @@
          "suburbId":164,
          "type":"suburb",
          "area":"south",
-         "name":"Rocklea"
+         "name":"Rocklea",
+        "slug":"rocklea"
       },
       {
          "suburbId":165,
          "type":"suburb",
          "area":"south",
-         "name":"Salisbury"
+         "name":"Salisbury",
+        "slug":"salisbury"
       },
       {
          "suburbId":166,
          "type":"suburb",
          "area":"south",
-         "name":"Nathan"
+         "name":"Nathan",
+        "slug":"nathan"
       },
       {
          "suburbId":167,
          "type":"suburb",
          "area":"south",
-         "name":"Mount Gravatt"
+         "name":"Mount Gravatt",
+        "slug":"mount-gravatt"
       },
       {
          "suburbId":168,
          "type":"suburb",
          "area":"south",
-         "name":"Mount Gravatt East"
+         "name":"Mount Gravatt East",
+        "slug":"mount-gravatt-east"
       },
       {
          "suburbId":169,
          "type":"suburb",
          "area":"south",
-         "name":"Mansfield"
+         "name":"Mansfield",
+        "slug":"mansfield"
       },
       {
          "suburbId":170,
          "type":"suburb",
          "area":"south",
-         "name":"Mackenzie"
+         "name":"Mackenzie",
+        "slug":"mackenzie"
       },
       {
          "suburbId":171,
          "type":"suburb",
          "area":"south",
-         "name":"Burbank"
+         "name":"Burbank",
+        "slug":"burbank"
       },
       {
          "type":"space",
@@ -1212,25 +1381,29 @@
          "suburbId":172,
          "type":"suburb",
          "area":"redlands",
-         "name":"Mount Cotton"
+         "name":"Mount Cotton",
+        "slug":"mount-cotton"
       },
       {
          "suburbId":173,
          "type":"suburb",
          "area":"redlands",
-         "name":"Redland Bay"
+         "name":"Redland Bay",
+        "slug":"redland-bay"
       },
       {
          "suburbId":174,
          "type":"suburb",
          "area":"redlands",
-         "name":"Macleay Island"
+         "name":"Macleay Island",
+        "slug":"macleay-island"
       },
       {
          "suburbId":175,
          "type":"suburb",
          "area":"redlands",
-         "name":"Lamb Island"
+         "name":"Lamb Island",
+        "slug":"lamb-island"
       },
       {
          "type":"space",
@@ -1240,13 +1413,15 @@
          "suburbId":176,
          "type":"suburb",
          "area":"south",
-         "name":"Sumner"
+         "name":"Sumner",
+        "slug":"sumner"
       },
       {
          "suburbId":177,
          "type":"suburb",
          "area":"south",
-         "name":"Darra"
+         "name":"Darra",
+        "slug":"darra"
       },
       {
          "type":"label",
@@ -1257,43 +1432,50 @@
          "suburbId":178,
          "type":"suburb",
          "area":"south",
-         "name":"Archerfield"
+         "name":"Archerfield",
+        "slug":"archerfield"
       },
       {
          "suburbId":179,
          "type":"suburb",
          "area":"south",
-         "name":"Coopers Plains"
+         "name":"Coopers Plains",
+        "slug":"coopers-plains"
       },
       {
          "suburbId":180,
          "type":"suburb",
          "area":"south",
-         "name":"Robertson"
+         "name":"Robertson",
+        "slug":"robertson"
       },
       {
          "suburbId":181,
          "type":"suburb",
          "area":"south",
-         "name":"MacGregor"
+         "name":"MacGregor",
+        "slug":"macgregor"
       },
       {
          "suburbId":182,
          "type":"suburb",
          "area":"south",
-         "name":"Upper Mount Gravatt"
+         "name":"Upper Mount Gravatt",
+        "slug":"upper-mount-gravatt"
       },
       {
          "suburbId":183,
          "type":"suburb",
          "area":"south",
-         "name":"Wishart"
+         "name":"Wishart",
+        "slug":"wishart"
       },
       {
          "suburbId":184,
          "type":"suburb",
          "area":"south",
-         "name":"Rochedale"
+         "name":"Rochedale",
+        "slug":"rochedale"
       },
       {
          "type":"space",
@@ -1303,7 +1485,8 @@
          "suburbId":185,
          "type":"suburb",
          "area":"redlands",
-         "name":"Karragarra Island"
+         "name":"Karragarra Island",
+        "slug":"karragarra-island"
       },
       {
          "type":"space"
@@ -1316,49 +1499,57 @@
          "suburbId":186,
          "type":"suburb",
          "area":"south",
-         "name":"Wacol"
+         "name":"Wacol",
+        "slug":"wacol"
       },
       {
          "suburbId":187,
          "type":"suburb",
          "area":"south",
-         "name":"Richlands"
+         "name":"Richlands",
+        "slug":"richlands"
       },
       {
          "suburbId":188,
          "type":"suburb",
          "area":"south",
-         "name":"Inala"
+         "name":"Inala",
+        "slug":"inala"
       },
       {
          "suburbId":189,
          "type":"suburb",
          "area":"south",
-         "name":"Durack"
+         "name":"Durack",
+        "slug":"durack"
       },
       {
          "suburbId":190,
          "type":"suburb",
          "area":"south",
-         "name":"Willawong"
+         "name":"Willawong",
+        "slug":"willawong"
       },
       {
          "suburbId":191,
          "type":"suburb",
          "area":"south",
-         "name":"Acacia Ridge"
+         "name":"Acacia Ridge",
+        "slug":"acacia-ridge"
       },
       {
          "suburbId":192,
          "type":"suburb",
          "area":"south",
-         "name":"Sunnybank"
+         "name":"Sunnybank",
+        "slug":"sunnybank"
       },
       {
          "suburbId":193,
          "type":"suburb",
          "area":"south",
-         "name":"Eight Mile Plains"
+         "name":"Eight Mile Plains",
+        "slug":"eight-mile-plains"
       },
       {
          "type":"space",
@@ -1368,7 +1559,8 @@
          "suburbId":194,
          "type":"suburb",
          "area":"redlands",
-         "name":"Russell Island"
+         "name":"Russell Island",
+        "slug":"russell-island"
       },
       {
          "type":"space"
@@ -1381,49 +1573,57 @@
          "suburbId":195,
          "type":"suburb",
          "area":"south",
-         "name":"Ellen Grove"
+         "name":"Ellen Grove",
+        "slug":"ellen-grove"
       },
       {
          "suburbId":196,
          "type":"suburb",
          "area":"south",
-         "name":"Forest Lake"
+         "name":"Forest Lake",
+        "slug":"forest-lake"
       },
       {
          "suburbId":197,
          "type":"suburb",
          "area":"south",
-         "name":"Doolandella"
+         "name":"Doolandella",
+        "slug":"doolandella"
       },
       {
          "suburbId":198,
          "type":"suburb",
          "area":"south",
-         "name":"Pallara"
+         "name":"Pallara",
+        "slug":"pallara"
       },
       {
          "suburbId":199,
          "type":"suburb",
          "area":"south",
-         "name":"Algester"
+         "name":"Algester",
+        "slug":"algester"
       },
       {
          "suburbId":200,
          "type":"suburb",
          "area":"south",
-         "name":"Sunnybank Hills"
+         "name":"Sunnybank Hills",
+        "slug":"sunnybank-hills"
       },
       {
          "suburbId":201,
          "type":"suburb",
          "area":"south",
-         "name":"Runcorn"
+         "name":"Runcorn",
+        "slug":"runcorn"
       },
       {
          "suburbId":202,
          "type":"suburb",
          "area":"south",
-         "name":"Kuraby"
+         "name":"Kuraby",
+        "slug":"kuraby"
       },
       {
          "type":"space",
@@ -1437,13 +1637,15 @@
          "suburbId":203,
          "type":"suburb",
          "area":"south",
-         "name":"Heathwood"
+         "name":"Heathwood",
+        "slug":"heathwood"
       },
       {
          "suburbId":204,
          "type":"suburb",
          "area":"south",
-         "name":"Larapinta"
+         "name":"Larapinta",
+        "slug":"larapinta"
       },
       {
          "type":"space"
@@ -1452,19 +1654,22 @@
          "suburbId":205,
          "type":"suburb",
          "area":"south",
-         "name":"Calamvale"
+         "name":"Calamvale",
+        "slug":"calamvale"
       },
       {
          "suburbId":206,
          "type":"suburb",
          "area":"south",
-         "name":"Stretton"
+         "name":"Stretton",
+        "slug":"stretton"
       },
       {
          "suburbId":207,
          "type":"suburb",
          "area":"south",
-         "name":"Karawatha"
+         "name":"Karawatha",
+        "slug":"karawatha"
       },
       {
          "type":"space",
@@ -1478,13 +1683,15 @@
          "suburbId":208,
          "type":"suburb",
          "area":"south",
-         "name":"Parkinson"
+         "name":"Parkinson",
+        "slug":"parkinson"
       },
       {
          "suburbId":209,
          "type":"suburb",
          "area":"south",
-         "name":"Drewvale"
+         "name":"Drewvale",
+        "slug":"drewvale"
       },
       {
          "type":"space",
